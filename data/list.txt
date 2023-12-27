@@ -1,3 +1,0 @@
-Area_1.las
-Area_2.las
-Area_3.las
